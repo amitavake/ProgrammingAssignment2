@@ -3,7 +3,7 @@
 ## repeatedlyIf the contents of a vector are not changing, it may make sense 
 ## to cache the value of the mean so that when we need it again, it can be 
 ## looked up in the cache rather than recomputed. In the two functions below
-## this is what is being performed.
+## this is what is being performed as part of Assignment 2
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
